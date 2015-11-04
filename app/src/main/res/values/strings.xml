@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IEEE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="descrip_ieee">
+        The 27th international conference on microelectronics (ICM 2015) will be held in Casablanca, Morocco, on December 20-23
+        , 2015 organized by Moroccan School on engineering science (EMSI) Casablanca and Lorraine University France.
+    </string>
+
+    <string name="test_item">
+        Plusieurs variations de Lorem Ipsum peuvent etre trouvees ici ou , mais la majeure partie d entre elles a par l addition d humour ou de mots aleatoires qui ne ressemblent pas une seconde à du texte standard.
+    </string>
+
+    <string name="descrip_iee_p2">&lt;h2>pecial Sessions (All presented papers will be published in the conference proceedings and included in IEEE Xplore Digital Library):&lt;/h2></string>
+</resources>
